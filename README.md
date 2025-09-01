@@ -1,2 +1,2 @@
-# Javascript-C-C-
+# Javascript(C&C)
 A code repository for JavaScript
